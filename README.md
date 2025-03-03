@@ -5,3 +5,5 @@ This repository contains the implementation of 'M³AD: Multi Scale, Multi Mode, 
 <div align=center>
 <img src=".\model.png" width="90%">
 </div>
+﻿# Dataset
+## You can download the entire dataset from this link ([https://github.com/pseudo-Skye/Data-Smith/blob/master/TSAD%20Dataset/cleaned_dataset/cleaned_dataset.zip](https://github.com/pseudo-Skye/Data-Smith/blob/master/TSAD%20Dataset/cleaned_dataset/cleaned_dataset.zip)).
