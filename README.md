@@ -1,5 +1,6 @@
 ﻿# M³AD: Multi Scale, Multi Mode, and Multi Process Time Series Anomaly Detection Framework
-This repository contains the implementation of 'M³AD: Multi Scale, Multi Mode, and Multi Process Time Series Anomaly Detection Framework'. We propose the M³AD framework to achieve effective, explainable, and robust time series anomaly detection.
+This repository contains the implementation of 'Revisiting Time Series Anomaly Detection: A Multi-Scale,
+ Multi-Mode and Multi-Process Real-Time Framework'. We propose the M³AD framework to achieve effective, explainable, and robust time series anomaly detection.
 ## M³AD model architecture
 
 <div align=center>
